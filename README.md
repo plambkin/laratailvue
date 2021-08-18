@@ -31,3 +31,4 @@ Private route URL is `/app`, defined in:
 1. `routes\web.php`: Remove all routes under Email Verification, and remove middleware verified
 2. `config\fortify.php`: Remove `Features::emailVerification()`
 3. `app\Models\User.php`: Remove `implements MustVerifyEmail`
+# laratailvue
